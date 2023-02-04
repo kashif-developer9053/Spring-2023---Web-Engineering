@@ -14,14 +14,14 @@
 <li>Stage your commit with: <pre>git add -A</pre></li>
 <li>Commit your staged work: <pre>git commit -m "Your commit message should be descriptive here"</pre></li>
 <li>Push your work to main repo: <pre>git push origin main</pre></li>
-<li>Now go to 'Pull Requests' and create a new pull request write meaningful title and description</li>
+<li>Now on your github profile go to page of your created repo and navigate to 'Pull Requests' and create a new pull request write meaningful title and description</li>
 <li>I will review your pull request and merge it into main repo</li>
 </ol>
 
 ## For subsequent future assignments:
 <ol>
 <li>Open main github repo in your editor.</li>
-<li>Use the following command to get fresh copy of main github repo: <pre>git pull</pre></li>
+<li>Use the following command to get fresh copy of main github repo: <pre>git pull origin main</pre></li>
 <li>Navigate to your folder in editor.</li>
 <li>Create new subfolder in your folder only for assignment/task or make changes to existing ones.</li>
 <li>After completing your work you can stage for commit using: <pre>git add -A</pre></li>
