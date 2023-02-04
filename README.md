@@ -3,15 +3,19 @@
 
 ## First time setup:
 <ol>
-<li>Create a new folder and open it in command prompt.</li>
-<li>Copy paste the following command: 
-<pre>git clone https://github.com/sibshahz/Spring-2023---Web-Engineering.git</pre>
+<li>Click fork on this repo, this will create your own copy on your github profile.</li>
+<li>Copy repo link from newly created repo on your profile.</li>
+<li>Now on your computer create a new folder and open it in command prompt.</li>
+<li>Now paste the link after writing 'git clone ' your command in cmd would look something like this: 
+<pre>git clone https://github.com/YOUR_GITHUB_USERNAME/Spring-2023---Web-Engineering.git</pre>
 </li>
 <li>In cloned repo create a new folder using the naming convention as: YOURNAME_ROLLNUMBER</li>
 <li>For your future assignments create subfolders in your assigned folder and push it to main repo</li>
 <li>Stage your commit with: <pre>git add -A</pre></li>
 <li>Commit your staged work: <pre>git commit -m "Your commit message should be descriptive here"</pre></li>
 <li>Push your work to main repo: <pre>git push origin main</pre></li>
+<li>Now go to 'Pull Requests' and create a new pull request write meaningful title and description</li>
+<li>I will review your pull request and merge it into main repo</li>
 </ol>
 
 ## For subsequent future assignments:
