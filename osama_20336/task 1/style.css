@@ -1,0 +1,18 @@
+#welcome{
+	font-size: 36px;
+	border: 4px;
+	border-color: green;
+	border-style: solid;
+	border-width: 2px;
+	text-align: center;
+	border-radius: 0px 25px 25px 25px ;
+
+}
+
+img {
+
+	border: solid;
+	border-width: 2px;
+	border-color: green;
+	padding: 10px;
+}
