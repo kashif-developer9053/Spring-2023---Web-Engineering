@@ -16,3 +16,6 @@ console.log(num);
 let [max,min]= findMinMax(num);
 console.log("Minimum possible value is=" +min);
 console.log("Maximum possible value is=" +max);
+//output will be [1,2,5,7,9,15,19,20]
+//Minimum possible value is =58
+//Maximum possible value is = 77
