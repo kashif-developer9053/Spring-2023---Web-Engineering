@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <title>Welcome</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1 class="welcome">Welcome</h1>
+    <div class="body">
+      <form class="form">
+        <b>Picture</b>
+        <input type="file" accept="image/*">
+        <br><br>
+        <b>Name</b>
+        <input type="text" value=""  placeholder="Enter Name" required><br><br>
+        <b>Gender</b>
+        <select>
+          <option>Male</option>
+          <option>Female</option>
+        </select><br><br>
+        <b>Date Of Birth</b>
+        <input type="date" value="date" required><br><br>
+        <b>CV File</b>
+        <input type="file" accept=".pdf"><br><br>
+        <b>Submit Button</b> 
+        <input type="submit" value="submit…
+[10:09 AM, 2/8/2023] Raja Kts: body {
+  text-align: center;
+  border: 10px solid #303030;
+  border-radius: 30px;
+}
+
+.welcome {
+  text-align: center;
+  font-size: 70px;
+  border: 10px solid #303030;
+}
+
+.form {
+  margin-top: 50px;
+  font-size: 36px;
+}
+
+input[type="file"], input[type="text"], select, input[type="date"], input[type="submit"], input[type="reset"] {
+  font-size: 36px;
+}
