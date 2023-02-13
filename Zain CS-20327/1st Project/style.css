@@ -1,0 +1,26 @@
+#welcome{
+	font-size: 36px;
+	border: 4px;
+	border-color: green;
+	border-style: solid;
+	border-width: 2px;
+	text-align: center;
+	border-radius: 0px 25px 25px 25px ;
+
+}
+
+img {
+    margin-left: 30%; 
+     width: 400px;
+	border: solid;
+	border-width: 2px;
+	border-color: green;
+	padding: 10px;
+}
+form{
+    margin-left: 40%; 
+	text-align: justify;
+}
+h1{
+	text-align: center;
+}
