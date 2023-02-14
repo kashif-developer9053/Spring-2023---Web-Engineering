@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  border: 10px solid #303030;
+  border-radius: 30px;
+}
+
+.welcome {
+  text-align: center;
+  font-size: 70px;
+  border: 10px solid #303030;
+}
+
+.form {
+  margin-top: 50px;
+  font-size: 36px;
+}
+
+input[type="file"], input[type="text"], select, input[type="date"], input[type="submit"], input[type="reset"] {
+  font-size: 36px;
+}
