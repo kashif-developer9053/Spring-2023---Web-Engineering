@@ -17,12 +17,7 @@
 
       // Update the browser history with the new URL and the date and time of visit
       const date = new Date();
-      // const browser = navigator.userAgent;
-      /**
-       * Kashif please use userAgentData attribute to get browser name and version as given below, 
-       * and solve the rest of assignment by fixing all the issues.
-       *
-       */
+     
       const browsername=JSON.stringify(navigator.userAgentData.brands[2].brand);
       const browserversion=JSON.stringify(navigator.userAgentData.brands[2].version);
 
